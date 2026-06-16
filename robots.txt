@@ -1,4 +1,4 @@
-# robots.txt for GracEdLMS
+# robots.txt for GracEdLMS3
 # Allow search engines to index public pages
 
 User-agent: *
